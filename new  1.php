@@ -1,7 +1,7 @@
 function	test_git_hub()	
 {	
 	 	
-	alert();
+	alert("Change");
 	 //blank	
 	
 	
